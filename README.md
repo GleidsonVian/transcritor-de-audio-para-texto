@@ -33,10 +33,10 @@ Antes de executar o projeto, certifique-se de ter instalado os seguintes requisi
 
 ## Uso
 
-1. Execute o script `script.py` para gravar áudio e transcrever para texto:
+1. Execute o script `transcritor.py` para gravar áudio e transcrever para texto:
 
     ```sh
-    python script.py
+    python transcritor.py
     ```
 
 2. O script gravará 10 segundos de áudio do microfone e salvará o áudio em um arquivo `output.wav`.
